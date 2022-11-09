@@ -2,7 +2,3 @@
 some text
 ## hello love
  how are you love
- rh
- jh
- ashjdfhd
- gg
